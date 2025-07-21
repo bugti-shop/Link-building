@@ -77,5 +77,5 @@ I followed the classic **Broken Link Building** approach with modern tools and f
 
 ## 📄 License
 
-This project is open for educational and portfolio purposes. Please credit [Mustafa Bugti](mailto:your-email@example.com) if reused.
+This project is open for educational and portfolio purposes. Please credit [Ghulam Mustafa](mailto:bugtishop@gmail.com) if reused.
 
